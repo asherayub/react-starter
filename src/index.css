@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+@font-face {
+  font-family: "ganora";
+  src: url("/assets/Ganora.otf") format("otf");
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #181818;
+  color: #ffffff;
+}
